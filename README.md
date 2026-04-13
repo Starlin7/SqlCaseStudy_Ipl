@@ -1,1 +1,1 @@
-# SqlCaseStudy
+# SqlCaseStudyOnIpl
